@@ -1,6 +1,4 @@
-Certainly! Below is a sample `README.md` file for your QR Code generator project.
 
-```markdown
 # QR Code Generator
 
 A simple and user-friendly web application that allows users to generate QR codes from any text or URL they input. This project utilizes the [QR Code API](https://goqr.me/api/) to create QR codes dynamically.
@@ -17,11 +15,3 @@ A simple and user-friendly web application that allows users to generate QR code
 - CSS
 - JavaScript
 
-## Getting Started
-
-
-
-
-```
-
-Make sure to replace `https://github.com/yourusername/qrcode-generator.git` with the actual URL of your repository and update the contact email as necessary. This `README.md` provides a clear overview of your project, its functionality, and how to get started.
