@@ -41,27 +41,7 @@ To run the project locally, follow these steps:
 3. Click the "Generate QR Code" button.
 4. The generated QR code will be displayed below the input field.
 
-## File Structure
 
-```
-qrcode-generator/
-│
-├── index.html        # Main HTML file
-├── style.css         # CSS styles for the application
-└── app.js            # JavaScript file for QR code generation
-```
-
-## License
-
-This project is licensed under the MIT License.
-
-## Acknowledgments
-
-- [QR Code API](https://goqr.me/api/) for providing the QR code generation service.
-
-## Contact
-
-For any inquiries or contributions, feel free to reach out to me at [your.email@example.com](mailto:your.email@example.com).
 ```
 
 Make sure to replace `https://github.com/yourusername/qrcode-generator.git` with the actual URL of your repository and update the contact email as necessary. This `README.md` provides a clear overview of your project, its functionality, and how to get started.
